@@ -36,7 +36,7 @@ I build modern, server-first web products with **Next.js + TypeScript** — clea
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
   </a>
   <a href="https://payloadcms.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/payload.png" width="36" height="36" alt="Payload CMS" />
+    <img src="https://cdn-1.webcatalog.io/catalog/payload-cms/payload-cms-icon-filled-256.webp?v=1714775413927" width="36" height="36" alt="Payload CMS" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
