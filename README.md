@@ -42,10 +42,3 @@ I build modern, server-first web products with **Next.js + TypeScript** — clea
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
 </p>
-
-<details>
-  <summary><b>Notes</b></summary>
-
-- If you want the Payload icon to never break, commit it locally at <code>./assets/payload.png</code>.
-- Pin your top repos in GitHub — the README is the trailer, pins are the movie.
-</details>
