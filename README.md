@@ -4,7 +4,7 @@
 
 Monitoring the situation since 1991 📡 · Yerevan, Armenia
 
-I run [RoadCorp](https://roadcorp.vercel.app) with Jess and a crew of AI agents: a small studio of publications and web products, built in TypeScript on Next.js, Payload and Postgres, and shipped on Vercel.
+I run [RoadCorp](https://www.theroadcorp.com) with Jess and a crew of AI agents: a small studio of publications and web products, built in TypeScript on Next.js, Payload and Postgres, and shipped on Vercel.
 
 Radical centrist, rational optimist. Former Yerevan City Council member, film and TV junkie, Manchester United fan. [The long version](https://www.lyovson.com/rafa/bio).
 
