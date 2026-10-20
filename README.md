@@ -12,23 +12,23 @@ Radical centrist, rational optimist. Former Yerevan City Council member, film an
 
 <table>
   <tr>
-    <td width="44"><a href="https://www.avenews.am"><img src="assets/projects/avenews.png" width="40" height="40" alt="Avenews" /></a></td>
+    <td width="44"><a href="https://www.avenews.am"><img src="assets/projects/avenews-tile.svg" width="40" height="40" alt="Avenews" /></a></td>
     <td><a href="https://www.avenews.am"><b>Avenews</b></a><br />News for curious readers, in English and Armenian</td>
   </tr>
   <tr>
-    <td><a href="https://www.baylus.am"><img src="assets/projects/baylus.svg" width="40" height="40" alt="Baylus" /></a></td>
+    <td><a href="https://www.baylus.am"><img src="assets/projects/baylus-tile.svg" width="40" height="40" alt="Baylus" /></a></td>
     <td><a href="https://www.baylus.am"><b>Baylus</b></a><br />An Armenian-language morning show I host</td>
   </tr>
   <tr>
-    <td><a href="https://www.bagaranagency.com"><img src="assets/projects/bagaran.png" width="40" height="40" alt="Bagaran" /></a></td>
+    <td><a href="https://www.bagaranagency.com"><img src="assets/projects/bagaran-tile.svg" width="40" height="40" alt="Bagaran" /></a></td>
     <td><a href="https://www.bagaranagency.com"><b>Bagaran</b></a><br />Websites and content for Armenian businesses going international</td>
   </tr>
   <tr>
-    <td><a href="https://www.lyovson.com"><img src="assets/projects/lyovson.png" width="40" height="40" alt="Lyóvson.com" /></a></td>
+    <td><a href="https://www.lyovson.com"><img src="assets/projects/lyovson-tile.svg" width="40" height="40" alt="Lyóvson.com" /></a></td>
     <td><a href="https://www.lyovson.com"><b>Lyóvson.com</b></a><br />Posts, notes and projects from Jess and me · <a href="https://github.com/RoadCorp/lyovsoncom">source</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.concernedeu.com"><img src="assets/projects/concernedeu.png" width="40" height="40" alt="Concerned EU" /></a></td>
+    <td><a href="https://www.concernedeu.com"><img src="assets/projects/concernedeu-tile.svg" width="40" height="40" alt="Concerned EU" /></a></td>
     <td><a href="https://www.concernedeu.com"><b>Concerned EU</b></a><br />Submit a concern, get an official-style EU press release</td>
   </tr>
 </table>
