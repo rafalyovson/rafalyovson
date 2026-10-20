@@ -12,7 +12,7 @@ Radical centrist, rational optimist. Former Yerevan City Council member, film an
 
 <table>
   <tr>
-    <td width="44"><a href="https://www.avenews.am"><img src="assets/projects/avenews-tile.svg" width="40" height="40" alt="Avenews" /></a></td>
+    <td><a href="https://www.avenews.am"><img src="assets/projects/avenews-tile.svg" width="40" height="40" alt="Avenews" /></a></td>
     <td><a href="https://www.avenews.am"><b>Avenews</b></a><br />News for curious readers, in English and Armenian</td>
   </tr>
   <tr>
